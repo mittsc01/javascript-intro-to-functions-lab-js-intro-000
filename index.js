@@ -4,4 +4,3 @@ function shout(astring){
 function whisper(string){
   return string.toLowerCase();
 }
-
